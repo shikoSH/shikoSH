@@ -88,7 +88,7 @@ I’m a **Computer Engineering student at the German University in Cairo (GUC)**
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** *(add your LinkedIn URL here)*
+- **LinkedIn:** *(https://www.linkedin.com/in/sherif-sherif-a3337733b/)*
 - **Email:** shiko.shwerif@gmail.com
 - **GitHub:** You’re already here 🙂
 
